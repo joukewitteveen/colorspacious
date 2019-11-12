@@ -137,8 +137,8 @@ that linear interpolation in this space is a valid way to simulate
 physical mixing of lights.
 
 **sRGB1-linear**: A linear-light version of **sRGB1**, i.e., it has
-had gamma correction applied, but is still represented in terms of the
-standard sRGB primaries.
+not had gamma correction applied, but is still represented in terms of
+the standard sRGB primaries.
 
 **xyY100**, **xyY1**: The standard `CIE 1931 xyY color space
 <https://en.wikipedia.org/wiki/CIE_1931_color_space#CIE_xy_chromaticity_diagram_and_the_CIE_xyY_color_space>`_. *The
